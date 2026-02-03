@@ -24,9 +24,10 @@ I am progressing toward Engineering Manager or Software Architect roles, leverag
 
 <p align="left"> <a href="https://www.github.com/sandeep-ssh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/sandeep-s-hegde-a35854b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-### Badges
-[👉 View all my AWS badges on Credly!](https://www.credly.com/users/sandeep-h-melbourne/badges#credly)
+### AWS Certification Badges & AWS Skill Builder Verification Link
+
 [👉 View all my AWS badges on Skillbuilder!](https://skillsprofile.skillbuilder.aws/user/sandeep/certification-badges)
+
 <div style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
   <img src="./assets/aws-clf.png" alt="AWS Certified Cloud Practitioner" width="15%" />
   <img src="./assets/aws-aif.png" alt="AWS Certified AI Practitioner" width="15%" />
