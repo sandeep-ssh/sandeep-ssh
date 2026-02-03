@@ -26,16 +26,16 @@ I am progressing toward Engineering Manager or Software Architect roles, leverag
 
 ### Badges
 <div style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
-  <img src="./assets/aws-clf.png" alt="AWS Certified Cloud Practitioner" width="35%" />
-  <img src="./assets/aws-aif.png" alt="AWS Certified AI Practitioner" width="35%" />
-  <img src="./assets/aws-saa.png" alt="AWS Certified Solutions Architect – Associate" width="35%" />
-  <img src="./assets/aws-dva.png" alt="AWS Certified Developer – Associate" width="35%" />
-  <img src="./assets/aws-sysops.png" alt="AWS Certified SysOps Administrator – Associate" width="35%" />
-  <img src="./assets/aws-mla.png" alt="AWS Certified Machine Learning Engineer – Associate" width="35%" />
-  <img src="./assets/aws-dea.png" alt="AWS Certified Data Engineer – Associate" width="35%" />
-  <img src="./assets/aws-sapro.png" alt="AWS Certified Solutions Architect – Professional" width="35%" />
-  <img src="./assets/aws-dopro.png" alt="AWS Certified DevOps Engineer – Professional" width="35%" />
-  <img src="./assets/aws-mls.png" alt="AWS Certified Machine Learning – Specialty" width="35%" />
-  <img src="./assets/aws-scs.png" alt="AWS Certified Security – Specialty" width="35%" />
-  <img src="./assets/aws-ans.png" alt="AWS Certified Advanced Networking – Specialty" width="35%" />
+  <img src="./assets/aws-clf.png" alt="AWS Certified Cloud Practitioner" width="15%" />
+  <img src="./assets/aws-aif.png" alt="AWS Certified AI Practitioner" width="15%" />
+  <img src="./assets/aws-saa.png" alt="AWS Certified Solutions Architect – Associate" width="15%" />
+  <img src="./assets/aws-dva.png" alt="AWS Certified Developer – Associate" width="15%" />
+  <img src="./assets/aws-sysops.png" alt="AWS Certified SysOps Administrator – Associate" width="15%" />
+  <img src="./assets/aws-mla.png" alt="AWS Certified Machine Learning Engineer – Associate" width="15%" />
+  <img src="./assets/aws-dea.png" alt="AWS Certified Data Engineer – Associate" width="15%" />
+  <img src="./assets/aws-sapro.png" alt="AWS Certified Solutions Architect – Professional" width="15%" />
+  <img src="./assets/aws-dopro.png" alt="AWS Certified DevOps Engineer – Professional" width="15%" />
+  <img src="./assets/aws-mls.png" alt="AWS Certified Machine Learning – Specialty" width="15%" />
+  <img src="./assets/aws-scs.png" alt="AWS Certified Security – Specialty" width="15%" />
+  <img src="./assets/aws-ans.png" alt="AWS Certified Advanced Networking – Specialty" width="15%" />
 </div>
