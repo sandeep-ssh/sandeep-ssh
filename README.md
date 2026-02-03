@@ -25,15 +25,17 @@ I am progressing toward Engineering Manager or Software Architect roles, leverag
 <p align="left"> <a href="https://www.github.com/sandeep-ssh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/sandeep-s-hegde-a35854b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
 ### Badges
-![AWS Certified Cloud Practitioner - Foundational](./assets/aws-clf.png)
-![AWS Certified AI Practitioner - Foundational](./assets/aws-aif.png)
-![AWS Certified Solutions Architect – Associate](./assets/aws-saa.png)
-![AWS Certified Developer – Associate](./assets/aws-dva.png)
-![AWS Certified SysOps Administrator – Associate](./assets/aws-sysops.png)
-![AWS Certified Machine Learning Engineer – Associate](./assets/aws-mla.png)
-![AWS Certified Data Engineer – Associate](./assets/aws-dea.png)
-![AWS Certified Solutions Architect – Professional](./assets/aws-sapro.png)
-![AWS Certified DevOps Engineer – Professional](./assets/aws-dopro.png)
-![AWS Certified Machine Learning – Specialty](./assets/aws-mls.png)
-![AWS Certified Security – Specialty](./assets/aws-scs.png)
-![AWS Certified Advanced Networking – Specialty](./assets/aws-ans.png)
+<div style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
+  <img src="./assets/aws-clf.png" alt="AWS Certified Cloud Practitioner" width="35%" />
+  <img src="./assets/aws-aif.png" alt="AWS Certified AI Practitioner" width="35%" />
+  <img src="./assets/aws-saa.png" alt="AWS Certified Solutions Architect – Associate" width="35%" />
+  <img src="./assets/aws-dva.png" alt="AWS Certified Developer – Associate" width="35%" />
+  <img src="./assets/aws-sysops.png" alt="AWS Certified SysOps Administrator – Associate" width="35%" />
+  <img src="./assets/aws-mla.png" alt="AWS Certified Machine Learning Engineer – Associate" width="35%" />
+  <img src="./assets/aws-dea.png" alt="AWS Certified Data Engineer – Associate" width="35%" />
+  <img src="./assets/aws-sapro.png" alt="AWS Certified Solutions Architect – Professional" width="35%" />
+  <img src="./assets/aws-dopro.png" alt="AWS Certified DevOps Engineer – Professional" width="35%" />
+  <img src="./assets/aws-mls.png" alt="AWS Certified Machine Learning – Specialty" width="35%" />
+  <img src="./assets/aws-scs.png" alt="AWS Certified Security – Specialty" width="35%" />
+  <img src="./assets/aws-ans.png" alt="AWS Certified Advanced Networking – Specialty" width="35%" />
+</div>
