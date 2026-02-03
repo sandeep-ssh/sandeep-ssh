@@ -26,6 +26,8 @@ I am progressing toward Engineering Manager or Software Architect roles, leverag
 
 ### Badges
 <div style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
+[👉 View all my AWS badges on Credly!](https://www.credly.com/users/sandeep-h-melbourne/badges#credly)
+[👉 View all my AWS badges on Skillbuilder!](https://skillsprofile.skillbuilder.aws/user/sandeep/certification-badges)
   <img src="./assets/aws-clf.png" alt="AWS Certified Cloud Practitioner" width="15%" />
   <img src="./assets/aws-aif.png" alt="AWS Certified AI Practitioner" width="15%" />
   <img src="./assets/aws-saa.png" alt="AWS Certified Solutions Architect – Associate" width="15%" />
@@ -40,6 +42,3 @@ I am progressing toward Engineering Manager or Software Architect roles, leverag
   <img src="./assets/aws-ans.png" alt="AWS Certified Advanced Networking – Specialty" width="15%" />
 </div>
 
-### AWS /Credly Verification Links
-[👉 View all my AWS badges on Credly!](https://www.credly.com/users/sandeep-h-melbourne/badges#credly)
-[👉 View all my AWS badges on Skillbuilder!](https://skillsprofile.skillbuilder.aws/user/sandeep/certification-badges)
