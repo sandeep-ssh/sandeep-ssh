@@ -8,7 +8,7 @@ Technical leader with deep AWS expertise and proven experience in support leader
 
 Experienced in leadership , collaborating with stakeholders, and translating business needs into effective technical strategies.
 
-I am progressing toward Engineering Manager or Software Architect roles, leveraging architectural thinking, AWS, Azure skills, and leadership to drive high-quality, scalable systems and sustainable engineering practices.
+I am progressing toward Engineering Manager , Delivery Manager or AWS Software Architect roles, leveraging architectural thinking, AWS, Azure skills, and leadership to drive high-quality, scalable systems and sustainable engineering practices.
 
 * 🌍  I'm based in Melbourne , Australia
 * ✉️  You can contact me at [sandeep.hegde@hotmail.com](mailto:sandeep.hegde@hotmail.com)
