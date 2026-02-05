@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AWS/Azure Cloud Professional / Aspiring Engineering Manager
 -----------------------------------------------------------
 
-Technical leader with deep AWS expertise and proven experience in support leadership and team management. I combine hands-on system design and operational excellence with mentoring and team enablement, delivering reliable, scalable cloud solutions.
+AWS-Certified Technical Leader specializing in cloud infrastructure, team leadership, and operational excellence. Proven track record scaling high-performing engineering teams while architecting and delivering reliable, enterprise-grade cloud solutions on AWS and Azure.
 
-Experienced in leadership , collaborating with stakeholders, and translating business needs into effective technical strategies.
+Strategic leader skilled at translating complex business requirements into scalable technical roadmaps, fostering cross-functional collaboration, and building teams that consistently exceed performance benchmarks.
 
-I am progressing toward Engineering Manager , Delivery Manager or AWS Software Architect roles, leveraging architectural thinking, AWS, Azure skills, and leadership to drive high-quality, scalable systems and sustainable engineering practices.
+Actively seeking Engineering Manager, Delivery Manager, or AWS Solutions Architect roles where I can leverage cloud architecture expertise, team leadership experience, and strategic thinking to accelerate organizational growth and establish sustainable engineering practices.
+
 
 * 🌍  I'm based in Melbourne , Australia
 * ✉️  You can contact me at [sandeep.hegde@hotmail.com](mailto:sandeep.hegde@hotmail.com)
