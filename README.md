@@ -26,6 +26,13 @@ Actively seeking Engineering Manager, Delivery Manager, or AWS Solutions Archite
 [![Helm](https://img.shields.io/badge/Helm-3.x-0F1689?style=flat-square&logo=helm&logoColor=white)](https://helm.sh/)
 [![Architecture](https://img.shields.io/badge/Architecture-ARM64-FF6C37?style=flat-square&logo=arm&logoColor=white)](https://learn.microsoft.com/en-us/azure/virtual-machines/dpsv5-dpdsv5-series)
 [![Docker](https://img.shields.io/badge/Docker-Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/)
+[![Build Status](https://img.shields.io/badge/CI%2FCD-Buildkite-brightgreen?style=for-the-badge&logo=buildkite)](https://buildkite.com)
+[![Security](https://img.shields.io/badge/Security-Snyk%20%2B%20Trivy-blue?style=for-the-badge&logo=snyk)](https://snyk.io)
+[![Platform](https://img.shields.io/badge/Platform-Azure%20AKS-0078D4?style=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com)
+[![IaC](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform)](https://terraform.io)
+[![Container](https://img.shields.io/badge/Container-Docker%20%2B%20Kubernetes-2496ED?style=for-the-badge&logo=docker)](https://docker.com)
+[![Monitoring](https://img.shields.io/badge/Monitoring-Grafana%20Cloud-F46800?style=for-the-badge&logo=grafana)](https://grafana.com)
+[![License](https://img.shields.io/badge/License-ISC-green?style=for-the-badge)](LICENSE)
 
 ### Socials
 
