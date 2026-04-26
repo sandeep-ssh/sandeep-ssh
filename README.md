@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sandeep Hegde
 ======================================================================================================================================
 
-AWS/Azure Cloud Professional / Job Ready Engineering Manager
+AWS/Azure Cloud Professional / Job Ready Cloud Engineering Manager
 -----------------------------------------------------------
 
 AWS-Certified Technical Leader specializing in cloud infrastructure, team leadership, and operational excellence. Proven track record scaling high-performing engineering teams while architecting and delivering reliable, enterprise-grade cloud solutions on AWS and Azure.
